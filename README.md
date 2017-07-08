@@ -275,33 +275,3 @@ startActivityForResult(intent, BluetoothState.REQUEST_CONNECT_DEVICE);
 ```
 
 ![Custom Device List Text](https://raw.githubusercontent.com/akexorcist/Android-BluetoothSPPLibrary/master/image/010.png)
-
-
-
-What's next?
-===========================
-- Connection Dialog 
-- Add Insecure Connection
-- Fix bug on this issue https://github.com/akexorcist/Android-BluetoothSPPLibrary/issues/21
-- Merge the code from https://github.com/akexorcist/Android-BluetoothSPPLibrary/pull/14 for a problem of auto connection
-- Human Readable Log https://github.com/akexorcist/Android-BluetoothSPPLibrary/issues/19
-
-
-
-License
---------------
-
-Copyright (c) 2014 Akexorcist
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-   http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
