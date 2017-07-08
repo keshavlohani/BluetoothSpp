@@ -279,3 +279,4 @@ startActivityForResult(intent, BluetoothState.REQUEST_CONNECT_DEVICE);
 
 Youtube Link
 --------------
+https://www.youtube.com/watch?v=DhB9_MNgrpE&t=36s
